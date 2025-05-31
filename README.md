@@ -8,5 +8,5 @@ JavaScript, TypeScript, React, Next.js, Node.js, Express, Firebase,<br />
 Supabase, HTML, CSS, Tailwind, React Native, Tauri, Git, Playwright
 <br /><br />
 ## Contacto
-<a href="mailto:gixi.tsx@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-[![portfolio](https://img.shields.io/badge/portafolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gixi.dev/)
+Portafolio: <a href="https://gixi.dev" target="blank">gixi.dev</a><br />
+Email: <a href="mailto:gixi.tsx@gmail.com" target="blank">gixi.tsx@gmail.com</a>
