@@ -9,4 +9,4 @@ Supabase, HTML, CSS, Tailwind, React Native, Tauri, Git, Playwright
 <br /><br />
 ## Contacto
 Portafolio: <a href="https://gixi.dev" target="blank">gixi.dev</a><br />
-Email: <a href="mailto:gixi@lym.software" target="blank">gixi.tsx@gmail.com</a>
+Email: <a href="mailto:gixi@lym.software" target="blank">gixi@lym.software</a>
