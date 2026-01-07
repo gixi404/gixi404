@@ -10,3 +10,4 @@ Supabase, HTML, CSS, Tailwind, React Native, Tauri, Git, Playwright
 ## Contacto
 Portafolio: <a href="https://gixi.dev" target="blank">gixi.dev</a><br />
 Email: <a href="mailto:gixi.tsx@gmail.com" target="blank">gixi.tsx@gmail.com</a>
+LinkedIn: <a href="https://www.linkedin.com/in/gixi" target="blank">Giovanni Liotta</a>
