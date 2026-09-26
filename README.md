@@ -1,13 +1,1 @@
-<img src="https://github.com/user-attachments/assets/86539d96-c447-4af5-8f4c-7145de6c4b85" alt="Banner">
-
-## Sobre Mí
-Soy Gixi, desarrollador fullstack en Argentina.<br /> Especializado en la creación de aplicaciones web con React y su ecosistema.<br /> Siempre con el objetivo crear software útil.
-<br /><br />
-## Tecnologías <br />
-JavaScript, TypeScript, React, Next.js, Node.js, Express, Firebase,<br />
-Supabase, HTML, CSS, Tailwind, React Native, Tauri, Git, Playwright
-<br /><br />
-## Contacto
-Portafolio: <a href="https://gixi.vercel.app" target="blank">gixi.vercel.app</a><br />
-Email: <a href="mailto:gixi.tsx@gmail.com" target="blank">gixi.tsx@gmail.com</a><br />
-LinkedIn: <a href="https://www.linkedin.com/in/gixi" target="blank">Giovanni Liotta</a>
+<img width="1536" height="1024" alt="ChatGPT Image 25 sept 2026, 21_12_02" src="https://github.com/user-attachments/assets/709d6c36-c0c7-4a68-9c9e-95a507cf09d3" />
